@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luiz Henrique\\Desktop\\Faculdade\\C# - NanoDegree\\.vs\\C# - NanoDegree\\Costumer Registration C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A333BBDB-EA85-402B-A2B5-551DD167754A}|Business.UI.Windows\\Business.UI.Windows.csproj|c:\\users\\luiz henrique\\desktop\\faculdade\\c# - nanodegree\\.vs\\c# - nanodegree\\costumer registration c#\\business.ui.windows\\principalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A333BBDB-EA85-402B-A2B5-551DD167754A}|Business.UI.Windows\\Business.UI.Windows.csproj|solutionrelative:business.ui.windows\\principalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A333BBDB-EA85-402B-A2B5-551DD167754A}|Business.UI.Windows\\Business.UI.Windows.csproj|c:\\users\\luiz henrique\\desktop\\faculdade\\c# - nanodegree\\.vs\\c# - nanodegree\\costumer registration c#\\business.ui.windows\\clientincludeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A333BBDB-EA85-402B-A2B5-551DD167754A}|Business.UI.Windows\\Business.UI.Windows.csproj|solutionrelative:business.ui.windows\\clientincludeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A333BBDB-EA85-402B-A2B5-551DD167754A}|Business.UI.Windows\\Business.UI.Windows.csproj|c:\\users\\luiz henrique\\desktop\\faculdade\\c# - nanodegree\\.vs\\c# - nanodegree\\costumer registration c#\\business.ui.windows\\principalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A333BBDB-EA85-402B-A2B5-551DD167754A}|Business.UI.Windows\\Business.UI.Windows.csproj|solutionrelative:business.ui.windows\\principalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F5C829-3197-410B-87C9-EDA7C95B3CC0}|BusinessModels\\BusinessModels.csproj|c:\\users\\luiz henrique\\desktop\\faculdade\\c# - nanodegree\\.vs\\c# - nanodegree\\costumer registration c#\\businessmodels\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F5C829-3197-410B-87C9-EDA7C95B3CC0}|BusinessModels\\BusinessModels.csproj|solutionrelative:businessmodels\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrincipalForm.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\Desktop\\Faculdade\\C# - NanoDegree\\.vs\\C# - NanoDegree\\Costumer Registration C#\\Business.UI.Windows\\PrincipalForm.cs",
+              "RelativeDocumentMoniker": "Business.UI.Windows\\PrincipalForm.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\Desktop\\Faculdade\\C# - NanoDegree\\.vs\\C# - NanoDegree\\Costumer Registration C#\\Business.UI.Windows\\PrincipalForm.cs",
+              "RelativeToolTip": "Business.UI.Windows\\PrincipalForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAawBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T01:56:55.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientIncludeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\Desktop\\Faculdade\\C# - NanoDegree\\.vs\\C# - NanoDegree\\Costumer Registration C#\\Business.UI.Windows\\ClientIncludeForm.cs",
+              "RelativeDocumentMoniker": "Business.UI.Windows\\ClientIncludeForm.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\Desktop\\Faculdade\\C# - NanoDegree\\.vs\\C# - NanoDegree\\Costumer Registration C#\\Business.UI.Windows\\ClientIncludeForm.cs [Design]",
+              "RelativeToolTip": "Business.UI.Windows\\ClientIncludeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T01:18:19.94Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrincipalForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\Desktop\\Faculdade\\C# - NanoDegree\\.vs\\C# - NanoDegree\\Costumer Registration C#\\Business.UI.Windows\\PrincipalForm.cs",
+              "RelativeDocumentMoniker": "Business.UI.Windows\\PrincipalForm.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\Desktop\\Faculdade\\C# - NanoDegree\\.vs\\C# - NanoDegree\\Costumer Registration C#\\Business.UI.Windows\\PrincipalForm.cs [Design]",
+              "RelativeToolTip": "Business.UI.Windows\\PrincipalForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T01:13:28.208Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\Desktop\\Faculdade\\C# - NanoDegree\\.vs\\C# - NanoDegree\\Costumer Registration C#\\BusinessModels\\Client.cs",
+              "RelativeDocumentMoniker": "BusinessModels\\Client.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\Desktop\\Faculdade\\C# - NanoDegree\\.vs\\C# - NanoDegree\\Costumer Registration C#\\BusinessModels\\Client.cs",
+              "RelativeToolTip": "BusinessModels\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T01:10:44.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

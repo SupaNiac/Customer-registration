@@ -1,0 +1,11 @@
+C:\Users\Luiz Henrique\Desktop\Faculdade\C# - NanoDegree\.vs\C# - NanoDegree\Costumer Registration C#\Business.UI.Windows\bin\Debug\Business.UI.Windows.exe.config
+C:\Users\Luiz Henrique\Desktop\Faculdade\C# - NanoDegree\.vs\C# - NanoDegree\Costumer Registration C#\Business.UI.Windows\bin\Debug\Business.UI.Windows.exe
+C:\Users\Luiz Henrique\Desktop\Faculdade\C# - NanoDegree\.vs\C# - NanoDegree\Costumer Registration C#\Business.UI.Windows\bin\Debug\Business.UI.Windows.pdb
+C:\Users\Luiz Henrique\Desktop\Faculdade\C# - NanoDegree\.vs\C# - NanoDegree\Costumer Registration C#\Business.UI.Windows\obj\Debug\Business.UI.Windows.csproj.AssemblyReference.cache
+C:\Users\Luiz Henrique\Desktop\Faculdade\C# - NanoDegree\.vs\C# - NanoDegree\Costumer Registration C#\Business.UI.Windows\obj\Debug\Business.UI.Windows.ClientIncludeForm.resources
+C:\Users\Luiz Henrique\Desktop\Faculdade\C# - NanoDegree\.vs\C# - NanoDegree\Costumer Registration C#\Business.UI.Windows\obj\Debug\Business.UI.Windows.Form1.resources
+C:\Users\Luiz Henrique\Desktop\Faculdade\C# - NanoDegree\.vs\C# - NanoDegree\Costumer Registration C#\Business.UI.Windows\obj\Debug\Business.UI.Windows.Properties.Resources.resources
+C:\Users\Luiz Henrique\Desktop\Faculdade\C# - NanoDegree\.vs\C# - NanoDegree\Costumer Registration C#\Business.UI.Windows\obj\Debug\Business.UI.Windows.csproj.GenerateResource.cache
+C:\Users\Luiz Henrique\Desktop\Faculdade\C# - NanoDegree\.vs\C# - NanoDegree\Costumer Registration C#\Business.UI.Windows\obj\Debug\Business.UI.Windows.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Henrique\Desktop\Faculdade\C# - NanoDegree\.vs\C# - NanoDegree\Costumer Registration C#\Business.UI.Windows\obj\Debug\Business.UI.Windows.exe
+C:\Users\Luiz Henrique\Desktop\Faculdade\C# - NanoDegree\.vs\C# - NanoDegree\Costumer Registration C#\Business.UI.Windows\obj\Debug\Business.UI.Windows.pdb

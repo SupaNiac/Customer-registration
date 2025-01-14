@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessModels", "BusinessModels\BusinessModels.csproj", "{13F5C829-3197-410B-87C9-EDA7C95B3CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business.UI.Windows", "Business.UI.Windows\Business.UI.Windows.csproj", "{A333BBDB-EA85-402B-A2B5-551DD167754A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13F5C829-3197-410B-87C9-EDA7C95B3CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F5C829-3197-410B-87C9-EDA7C95B3CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F5C829-3197-410B-87C9-EDA7C95B3CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F5C829-3197-410B-87C9-EDA7C95B3CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A333BBDB-EA85-402B-A2B5-551DD167754A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A333BBDB-EA85-402B-A2B5-551DD167754A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A333BBDB-EA85-402B-A2B5-551DD167754A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A333BBDB-EA85-402B-A2B5-551DD167754A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFD5F331-1651-4634-B1DF-98DE2E1F9C12}
+	EndGlobalSection
+EndGlobal
